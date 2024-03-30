@@ -8,9 +8,9 @@ class App extends React.Component {
   render() {
     return(
       <div>
-      Hello world with Viet Anh
-      <MyComponent></MyComponent>
-    </div>
+        Hello world with Viet Anh
+        <MyComponent></MyComponent>
+      </div>
     )
   }
 }
